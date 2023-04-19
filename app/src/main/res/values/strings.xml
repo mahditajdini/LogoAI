@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LogoAi</string>
+    <string name="history">history</string>
+    <string name="logoPrompt">مشخصات لوگوی خود را اینجا به انگلیسی وارد کنید.</string>
+    <string name="logoPromptEmptyToast">لطفا مشخصات لوگوی خود را کامل وارد کنید.</string>
+    <string name="logoPromptTooLongToast">لطفا مشخصات لوگوی خود را خلاصه تر وارد کنید.</string>
+    <string name="makeLogo">ایجاد لوگو</string>
+    <string name="pickLogoSize"> سایز لوگو را انتخاب کنید</string>
+    <string name="problem"> مشکلی پیش آمده لطفا مجددا تلاش کنید</string>
+    <string name="preprompt">  a logo with these specifications</string>
+
+</resources>
